@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body {
+	text-align: left;
+	margin-left: 6px;
+	
+	padding: 0;
+	background-color: #FFFFFF;
+}
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 1.6em;
+}
+p a:link {
+	color: #B38708;
+}
+
+p a:visited {
+	color: #B38708;
+}
+p a:hover {
+	color: #DBBB63;
+}
+h1 {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	
+}
+.list {
+	font-family: Verdana;
+	font-size: 11px;
+	line-height: 1.3em;
+}
